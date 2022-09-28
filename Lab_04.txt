@@ -1,0 +1,48 @@
+Get the current program: 
+Current program is null
+Turn on Telefon
+Set desctop resolution to: 800x1200
+Add apps: Viber, Telegram, Safari, Google
+Remove apps: Viber
+Set program to Telegram
+Current list of apps: Telegram, Safari, Google
+Remove apps: Google
+Set program to Safari
+Get the current program: 
+Current program is Safari
+Current list of apps: Telegram, Safari
+                 Current settings                 
+Get desctop resolution: Height: 800 Width: 1200
+Get desctop frame rate: 60
+Get the current program: 
+Current program is Safari
+Current list of apps: Telegram, Safari
+                                                    
+Go to next appNo apps
+Get the current program: 
+Current program is null
+                 Current settings                 
+Get desctop resolution: Height: 100 Width: 100
+Get desctop frame rate: 60
+Get the current program: 
+Current program is null
+Current list of apps: 
+                                                    
+Turn on Telefon
+Set desctop resolution to: 1920x1080
+Get desctop resolution: Height: 1920 Width: 1080
+                 Current settings                 
+Get desctop resolution: Height: 1920 Width: 1080
+Get desctop frame rate: 144
+Get the current program: 
+Current program is null
+Current list of apps: 
+                                                    
+Turn off Telefon
+Is Telefon working: false
+Turn on Telefon
+Add apps: Viber, Telegram, Safari, Google
+Add apps from AppStore
+Add apps: Xcode, Photoshop, Teams
+Current list of apps: Viber, Telegram, Safari, Google, Xcode, Photoshop, Teams
+Turn off Telefon
