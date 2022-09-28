@@ -1,0 +1,43 @@
+Get the current program: 
+Current program is null
+Turn on the Phone
+Set desctop resolution to: 800x1200
+Add programs: Viber, Telegram, Safari, Google
+Remove programs: Viber
+Set program to Telegram
+Current list of programs: Telegram, Safari, Google
+Remove programs: Google
+Set program to Safari
+Get the current program: 
+Current program is Safari
+Current list of programs: Telegram, Safari
+                 Current settings                 
+Get desctop resolution: Height: 800 Width: 1200
+Get desctop frame rate: 60
+Get the current program: 
+Current program is Safari
+Current list of programs: Telegram, Safari
+                                                    
+Set program to Telegram
+Go to next appNo apps
+Get the current program: 
+Current program is Telegram
+                 Current settings                 
+Get desctop resolution: Height: 800 Width: 1200
+Get desctop frame rate: 60
+Get the current program: 
+Current program is Telegram
+Current list of programs: 
+                                                    
+Turn on the Phone
+Set desctop resolution to: 1920x1080
+Get desctop resolution: Height: 1920 Width: 1080
+                 Current settings                 
+Get desctop resolution: Height: 1920 Width: 1080
+Get desctop frame rate: 144
+Get the current program: 
+Current program is null
+Current list of programs: 
+                                                    
+Turn off the iPhone
+Is Phone working: false
